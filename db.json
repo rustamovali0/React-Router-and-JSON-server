@@ -1,0 +1,49 @@
+{
+  "users": [
+      {
+          "id": 1,
+          "firstName": "Tedfbrry",
+          "lastName": "segb",
+          "maidenName": "Smitham",
+          "age": 50,
+          "gender": "male",
+          "email": "atuny0@sohu.com",
+          "phone": "+63 791 675 8914",
+          "username": "atuny0"
+         
+      }, {
+        "id": 2,
+        "firstName": "Tereafry",
+        "lastName": "Medherburst",
+        "maidenName": "Smitham",
+        "age": 50,
+        "gender": "male",
+        "email": "atuny0@sohu.com",
+        "phone": "+63 791 675 8914",
+        "username": "atuny0"
+       
+    }, {
+      "id": 3,
+      "firstName": "Terry",
+      "lastName": "Medhurst",
+      "maidenName": "Smitham",
+      "age": 50,
+      "gender": "male",
+      "email": "atuny0@sohu.com",
+      "phone": "+63 791 675 8914",
+      "username": "atuny0"
+     
+  }, {
+    "id": 4,
+    "firstName": "Terberrry",
+    "lastName": "Medherbeburst",
+    "maidenName": "Smitham",
+    "age": 50,
+    "gender": "male",
+    "email": "atuny0@sohu.com",
+    "phone": "+63 791 675 8914",
+    "username": "atuny0"
+   
+}
+
+    ]}

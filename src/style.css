@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(232, 229, 229);
+}
+.table1{
+    border: 2px solid rgb(232, 229, 229);
+font-size: 1.3rem;
+text-align: center;
+margin: 1rem;
+background-color: white;
+}
+tr{
+    border: 2px solid rgb(232, 229, 229);
+     height: 4rem;
+     font-weight: 600;
+     font-size: 16px;
+}
+th{
+    border: 2px solid rgb(232, 229, 229);
+
+}
+td{
+    border: 2px solid rgb(232, 229, 229);
+
+}
+.username{
+    width: 20rem;
+    height: 3.5rem;
+
+}
+.email{
+    width: 30rem;
+    height: 3.5rem;
+
+}
+.id{
+    width: 7rem;
+    height: 3.5rem;
+
+}
+.phone{
+    width: 20rem;
+    height: 3.5rem;
+}
+.age{
+    width: 20rem;
+    height: 3.5rem;
+}
+.gender{
+    width: 20rem;
+    height: 3.5rem;
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+}
